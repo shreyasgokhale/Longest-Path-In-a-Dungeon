@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="longest_path_cpp" targetName="longest_path_cpp" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eb8d85d2-0f37-43ba-8c04-79645852cb3f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1ZTEqpQ1IIIxZ01E5cz2tqRdk9X" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RunManager">
+    <configuration name="longest_path_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="longest_path_cpp" TARGET_NAME="longest_path_cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="longest_path_cpp" RUN_TARGET_NAME="longest_path_cpp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb8d85d2-0f37-43ba-8c04-79645852cb3f" name="Default Changelist" comment="" />
+      <created>1584854877039</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584854877039</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="712" y="410" width="487" height="263" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1584958343346">
+      <screen x="0" y="28" width="1920" height="1024" />
+    </state>
+    <state x="712" y="410" width="487" height="263" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.28.1920.1024@0.28.1920.1024" timestamp="1584958343346" />
+    <state width="1872" height="268" key="GridCell.Tab.0.bottom" timestamp="1584958939559">
+      <screen x="0" y="28" width="1920" height="1024" />
+    </state>
+    <state width="1872" height="268" key="GridCell.Tab.0.bottom/0.28.1920.1024@0.28.1920.1024" timestamp="1584958939559" />
+    <state width="1872" height="268" key="GridCell.Tab.0.center" timestamp="1584958939557">
+      <screen x="0" y="28" width="1920" height="1024" />
+    </state>
+    <state width="1872" height="268" key="GridCell.Tab.0.center/0.28.1920.1024@0.28.1920.1024" timestamp="1584958939557" />
+    <state width="1872" height="268" key="GridCell.Tab.0.left" timestamp="1584958939555">
+      <screen x="0" y="28" width="1920" height="1024" />
+    </state>
+    <state width="1872" height="268" key="GridCell.Tab.0.left/0.28.1920.1024@0.28.1920.1024" timestamp="1584958939555" />
+    <state width="1872" height="268" key="GridCell.Tab.0.right" timestamp="1584958939558">
+      <screen x="0" y="28" width="1920" height="1024" />
+    </state>
+    <state width="1872" height="268" key="GridCell.Tab.0.right/0.28.1920.1024@0.28.1920.1024" timestamp="1584958939558" />
+    <state width="1872" height="239" key="GridCell.Tab.1.bottom" timestamp="1584956481453">
+      <screen x="0" y="28" width="1920" height="1024" />
+    </state>
+    <state width="1872" height="239" key="GridCell.Tab.1.bottom/0.28.1920.1024@0.28.1920.1024" timestamp="1584956481453" />
+    <state width="1872" height="239" key="GridCell.Tab.1.center" timestamp="1584956481453">
+      <screen x="0" y="28" width="1920" height="1024" />
+    </state>
+    <state width="1872" height="239" key="GridCell.Tab.1.center/0.28.1920.1024@0.28.1920.1024" timestamp="1584956481453" />
+    <state width="1872" height="239" key="GridCell.Tab.1.left" timestamp="1584956481452">
+      <screen x="0" y="28" width="1920" height="1024" />
+    </state>
+    <state width="1872" height="239" key="GridCell.Tab.1.left/0.28.1920.1024@0.28.1920.1024" timestamp="1584956481452" />
+    <state width="1872" height="239" key="GridCell.Tab.1.right" timestamp="1584956481453">
+      <screen x="0" y="28" width="1920" height="1024" />
+    </state>
+    <state width="1872" height="239" key="GridCell.Tab.1.right/0.28.1920.1024@0.28.1920.1024" timestamp="1584956481453" />
+    <state width="961" height="512" key="XDebugger.FullValuePopup" timestamp="1584874690854">
+      <screen x="0" y="28" width="1920" height="1024" />
+    </state>
+    <state width="961" height="512" key="XDebugger.FullValuePopup/0.28.1920.1024@0.28.1920.1024" timestamp="1584874690854" />
+    <state x="613" y="137" width="685" height="808" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584878603844">
+      <screen x="0" y="28" width="1920" height="1024" />
+    </state>
+    <state x="613" y="137" width="685" height="808" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.28.1920.1024@0.28.1920.1024" timestamp="1584878603844" />
+    <state x="674" y="182" width="563" height="718" key="refactoring.ChangeSignatureDialog" timestamp="1584875583560">
+      <screen x="0" y="28" width="1920" height="1024" />
+    </state>
+    <state x="674" y="182" width="563" height="718" key="refactoring.ChangeSignatureDialog/0.28.1920.1024@0.28.1920.1024" timestamp="1584875583560" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="counter" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
